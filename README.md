@@ -2,7 +2,7 @@
 
 This bot is used for automating the RIT OnDemand website to make ordering food easier and more convenient.
 
-NOTE: This bot is a work in progress, as such ordering is currently unavailable mainly due to security concerns.
+NOTE: This bot is a work in progress, as such ordering is currently unavailable.
       Commands to view menus and hours are currently working.
 
 ## Commands
