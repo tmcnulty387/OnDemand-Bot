@@ -1,6 +1,6 @@
-# OnDemand Bot Guide
+# OnDemand Bot
 
-Hi! This bot is used for automating the RIT OnDemand website to make ordering food easier and more convenient.
+This bot is used for automating the RIT OnDemand website to make ordering food easier and more convenient.
 
 NOTE: This bot is a work in progress, as such ordering is currently unavailable mainly due to security concerns.
       Commands to view menus and hours are currently working.
